@@ -1,4 +1,4 @@
-# Bharat-Herald-a-Legacy-Newspaper-Analysis
+# Bharat-Herald-a-Legacy-Newspaper-Analysi
 
 ## Business Problem
 1) Bharat Herald, a legacy newspaper organization is facing an existential crisis. With a reputation built over seven decades the company once printed over 1.2 million copies daily. 
